@@ -1,5 +1,5 @@
 The code below is for compiling the java files.
-Change the filepath and put the code in the main method.
+Change the file path and put the code in the main method.
 
 args = new String[] { F I L E P A T H };
 if(args.length <= 0)
